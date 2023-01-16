@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nick Payton -- nick@paytonspalce.net -- @none
 
 # THANKS
 
