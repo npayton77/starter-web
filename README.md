@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github
+This is a simple website project for showing how to use Git and Github. Continue to learn, this is a good thing for everyone. Learnign rebasing.
 
 ## Introduction
 
